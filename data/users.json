@@ -3,12 +3,12 @@
         "name" : "Swaraj Jain",
         "email": "happy2000jain@gmail.com",
         "password" : "swaraj@123",
-        "DOB": "30/08/1996"
+        "DOB":"30/09/2000"
     },
     {
         "name" : "Harshit Gupta",
         "email": "harshitgupta@gmail.com",
         "password" : "gupta@123",
-        "DOB": "10/03/1998"
+        "DOB":"5/02/1994"
     }
 ]
